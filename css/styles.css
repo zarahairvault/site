@@ -1,0 +1,147 @@
+body {
+font-family: 'Montserrat';
+margin: 0;
+padding: 0;
+}
+
+.description-text {
+  color: #FFF;
+  font-size: 1.25rem;
+}
+
+/* Navigation bar */
+
+.brand-name {
+  color: #A0A;
+}
+
+.logo {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.bg-purple {
+  background-color: #A0A;
+  padding: 1% 5%;
+}
+
+
+/* Top section */
+
+.top-message {
+  background-color: #FFB0CD;
+  padding: 5% 5%;
+  color: #fff;
+  margin: 0;
+}
+
+.big-heading {
+  font-size: 3.75rem;
+  font-family: 'Roboto-Black';
+  font-weight: 700;
+  padding: 5% 10% 0;
+  line-height: 1.7;
+}
+
+.landing-image {
+  border-radius: 100%;
+  width: 90%;
+  margin: auto;
+  border: 5px solid #fff;
+  margin-bottom: 40px;
+}
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 5% 2% 5%;
+}
+
+/* Second Section */
+.feature-box {
+  text-align: center;
+  padding: 8% 5%;
+  color:#A0A;
+}
+
+.icon {
+  color: #6f42c1;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #A0A;
+}
+
+.core-service {
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+}
+
+/* Third Section */
+#third-section {
+  padding: 1% 5%;
+  background-color: #FFB0CD;
+  text-align: center;
+  color: #fff;
+}
+
+.product {
+  border-radius: 100%;
+  width: 50%;
+  margin-bottom: 40px;
+  margin-top: 0;
+  border: 5px solid #fff;
+}
+
+.product-title {
+  padding: 3%;
+  padding-bottom: 0;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+/* Fourth Section */
+.testimonial {
+  padding: 5% 7%;
+}
+
+.row {
+  margin: 0;
+}
+
+.btn-purple {
+  background-color: #FFF;
+  border: 1px solid #A0A;
+  color: #A0A;
+}
+
+.btn-purple:hover {
+  background-color: #A0A;
+  border: 1px solid #FFF;
+  color: #FFF;
+}
+
+.testimonial-img {
+  width: 40%;
+  border-radius: 100%;
+}
+
+.footer {
+  padding: 5% 7%;
+  background-color: #D8D;
+  color: #FFF;
+  text-decoration: none;
+}
+
+.footer-icon {
+  color: #A0A;
+  padding: 1% 1% 1%;
+}
+
+.footer-icon:hover {
+  color: #FFF;
+}
